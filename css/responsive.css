@@ -1,0 +1,221 @@
+/* ============== Extra smal device ============== */
+@media(max-width:575.98px){
+    .navbar-toggler .navbar-toggler-icon{
+        color: #ffff !important;
+    }
+    .navbar {
+	padding: 0;
+}
+.navbar-nav {
+	background-color: #6dcaee;
+	position: relative;
+	z-index: 555;
+}
+#nav .nav-item .nav-link {
+	color: #03034A;
+}
+body {
+	text-align: center;
+}
+.navbtn {
+	padding: 2px 10px;
+}
+#nav .navbar-nav {
+	padding-right: 0;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+ /* ================== banner start here ================ */
+.container {
+	width:auto;
+}
+.bannerImageBox {
+	width: auto;
+	height: auto;
+}
+#banner {
+	padding: 0;
+}
+.bannerTitle {
+	font-size: 25px;
+	line-height: 40px;
+	font-weight: 500;
+	margin-bottom: 24px;
+	padding-top: 26px;
+	padding-left: 35px;
+}
+.bannerPara {
+	font-size: 15px;
+	line-height: 25px;
+	font-weight: 500;
+	padding-right: 20px;
+	margin-left: 35px;
+    margin-bottom: 15px;
+}
+.bnnrBTNprea {
+	padding-left: 5px;
+	padding-top: 11px;
+}
+.bannerBtn {
+	padding: 0px 10px;
+	font-weight: 599;
+	font-size: 16px;
+	border-radius: 41px;
+	margin-left: 30px;
+}
+.BtnIcon {
+	padding-left: 9px;
+	font-size: 14px;
+	margin-top: 0px;
+}
+ /* ================== Work part start here ================ */
+#work {
+	padding: 5px;
+}
+.workTitle {
+	font-size: 35px;
+	padding-bottom: 0px;
+	text-align: center;
+}
+.p .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+margin: 0;
+padding: 0;
+}
+.workPera {
+	line-height: 22px;
+	padding: 0;
+	text-align: center;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+/* ================== vew part start here ================ */
+#VewProject {
+	padding: 10px;
+}
+.projectHeder {
+	padding-bottom: 15px;
+}
+.VewS {
+	padding-left: 61px;
+	padding-top: 0px;
+}
+.h1, h1 {
+	font-size: 16px;
+}
+.bigImg {
+	width: 100%;
+	height: 100%;
+}
+.bigImg:hover .BnrImgOverlay {
+	width: 100%;
+}
+.BnrImgOverlayHeder {
+	font-size: 20px;
+	line-height: 27px;
+	padding-top: 36px;
+	padding-left: 0;
+	padding-bottom: 0;
+}
+.BnrImgOverlayPera {
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 22px;
+	padding-left: 0;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+.subGel {
+	width: 100%;
+	height: 300px;
+}
+/* ================== problame solve part start here ================ */
+#PrblmSlv {
+	padding: 0;
+
+}
+.problamHeder {
+	padding: 0;
+}
+.problamHederB {
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 30px;
+}
+.cardicon {
+	margin: 11px 0;
+}
+.card-titleS {
+	padding-left:0;
+}
+.card-textS {
+	padding-left:0;
+}
+/* ================== about us start here ================ */
+#AboutUs {
+	padding: 10px;
+}
+.AbutHeader {
+	font-size: 20px;
+	line-height: 27px;
+}
+/* ================== FAQ part start here ================ */
+#FAQ {
+	padding: 0;
+}
+.FAQheader {
+	font-size: 25px;
+	line-height: 37px;
+}
+.FAQpera {
+	font-size: 16px;
+}
+/* ================== Inquiry part start here ================ */
+.inqImg {
+	width: 100%;
+}
+.inquiryform {
+	height: 570px;
+}
+.inqImgoverlayhead {
+	font-size: 40px;
+	line-height: 60px;
+}
+.inqImgoverlayhead {
+	margin: 0;
+	margin-top: 150px;
+}
+.inqImgoverlayprra {
+	margin: 20px 0;
+}
+.inquiryform {
+	padding: 20px 10px;
+}
+.inputBtn {
+	padding: 0;
+}
+/* ================== our blog part start here ================ */
+#ourBlog {
+	padding: 30px 0;
+}
+.blogHeader {
+	font-size: 35px;
+	line-height: 25px;
+	padding-bottom: 0px;
+}
+/* ================== footer part start here ================ */
+#footerOne {
+	padding-top: 30px;
+}
+.footerPera {
+	margin: 20px 0;
+}
+.contact {
+	display: flex;
+}
+/* ================== Work part start here ================ */
+/* ================== Work part start here ================ */
+/* ================== Work part start here ================ */
+}
